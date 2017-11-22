@@ -8,6 +8,8 @@ namespace WebShopV05
         {
             // The FIRST line of code should be BELOW this line
 
+            
+
             double netPriceBook = 30;
             double netPriceDVD = 50;
             double netPriceGame = 100;
